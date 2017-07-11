@@ -1,6 +1,6 @@
 #!/usr/bin/python
 from wallaby import *
 
-# do stuff!
+# do something(s)!
 
-
+# we want to move motors, as well!
